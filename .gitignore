@@ -1,0 +1,5 @@
+node_modules
+.windsurfrules
+pnpm-lock.yaml
+generated/prisma/
+.env
