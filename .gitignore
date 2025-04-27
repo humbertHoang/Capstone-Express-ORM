@@ -1,5 +1,5 @@
 node_modules
-.windsurfrules
 pnpm-lock.yaml
+pnpm-workspace.yaml
 generated/prisma/
 .env
